@@ -1,3 +1,8 @@
+#mstr-rnd stuff using Node.JS
+node_modules/
+src/config.js
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
