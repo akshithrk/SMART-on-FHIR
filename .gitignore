@@ -1,8 +1,12 @@
+#html config stuff
+MSTR_EmbeddingSampleWithNavigation.html
+EmbeddingSampleWithNavigation.html
+*.html
+
 #mstr-rnd stuff using Node.JS
 node_modules/
 src/config.js
-MSTR_EmbeddingSampleWithNavigation.html
-EmbeddingSampleWithNavigation.html
+
 
 
 # Byte-compiled / optimized / DLL files
