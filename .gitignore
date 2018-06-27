@@ -2,6 +2,7 @@
 node_modules/
 src/config.js
 MSTR_EmbeddingSampleWithNavigation.html
+EmbeddingSampleWithNavigation.html
 
 
 # Byte-compiled / optimized / DLL files
