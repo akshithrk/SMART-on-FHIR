@@ -1,6 +1,7 @@
 #mstr-rnd stuff using Node.JS
 node_modules/
 src/config.js
+MSTR_EmbeddingSampleWithNavigation.html
 
 
 # Byte-compiled / optimized / DLL files
